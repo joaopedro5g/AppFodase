@@ -1,0 +1,12 @@
+# Player Music App
+
+This app is one Template for Marcão.
+
+### Library
+
+- Expo
+- Expo-AV
+- ReactNavigation(Native and Tab)
+- React Context API
+- Styled Components
+- Typescript
